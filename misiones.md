@@ -1,3 +1,4 @@
 ##*misiones
 Investigar al doctor doom
-Capturar a redschool
+
+##Capturar a redschool
